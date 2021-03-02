@@ -1,5 +1,1 @@
-This is the test page
-
-modify this page using vim
-
-modify this page again using vim
+Start Text.txt
