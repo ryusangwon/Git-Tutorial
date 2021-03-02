@@ -1,7 +1,1 @@
-update text file
-
-modify text file by vim
-
-update twice
-
-It is very exciting job to modify text and push to git
+Start example.txt
